@@ -1,0 +1,16 @@
+* {
+    font-family:'Helvetica Neue', 'Times New Roman', Times, serif;
+  }
+
+  #p1 {
+    font-size: 23px;
+    color: red;
+    background-color: turquoise;
+    font-weight: 700;
+    text-align: center;
+  }
+
+  img {
+    height: auto;
+    width: 500px;
+  }
